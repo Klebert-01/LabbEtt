@@ -1,0 +1,15 @@
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\bin\Debug\net6.0\LabbEtt.exe
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\bin\Debug\net6.0\LabbEtt.deps.json
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\bin\Debug\net6.0\LabbEtt.runtimeconfig.json
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\bin\Debug\net6.0\LabbEtt.dll
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\bin\Debug\net6.0\LabbEtt.pdb
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.csproj.AssemblyReference.cache
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.AssemblyInfoInputs.cache
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.AssemblyInfo.cs
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.csproj.CoreCompileInputs.cache
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.dll
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\refint\LabbEtt.dll
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.pdb
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\LabbEtt.genruntimeconfig.cache
+C:\Users\arvid\source\REPOS\ITHS repos\LabbEtt\LabbEtt\obj\Debug\net6.0\ref\LabbEtt.dll
