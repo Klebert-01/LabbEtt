@@ -14,7 +14,7 @@ while (isRunning)
 void DisplayMenu()
 {
 
-    Console.WriteLine("======MAT-MATS LOGISTIK======\n1. Registrera ny leverans\n2. Beställ mer\n3. Ny inventering\n4. Stäng\n5. Bokföring");
+    Console.WriteLine("======MAT-MATS LOGISTIK======\n1. Registrera ny leverans\n2. Beställ mer\n3. Ny inventering\n4. Stäng\n5. Bokföring");   //nytt menyval 5
     Console.Write(">");
 
 }
@@ -37,7 +37,7 @@ void ReadInput()
             Console.WriteLine("Bra jobbat. Ses imorgon.");
             break;
         case 5:
-            Console.WriteLine("Vi har inte sålt någonting..");
+            Console.WriteLine("Vi har inte sålt någonting..");  //Skriver ut hur bokföringen i företaget ser ut
             break;
         default:
             break;
